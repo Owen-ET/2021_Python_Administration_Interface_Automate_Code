@@ -14,7 +14,7 @@ class TestModel(BaseTestCase):
     def test_searchModel(self):
 
         result = self.model.searchModel()
-        assert 2001 == result['code'],"与预想结果不对！"
+        assert 200 == result['code'],"与预想结果不对！"
 
     @allure.story('测试用例1：添加接口')
     def test_addModel(self):
