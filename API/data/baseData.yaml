@@ -1,3 +1,3 @@
 base:
-  baseUrl: "xxx"
+  baseUrl: "https://recycle-module-dev.17mine.cn:9601/disposal/recycler"
   headers: eyJhbGciOiJIUzI1NiJ9.eyJsb2dpblRpbWUiOjE2MzA3Mzk5OTg3MDQsImxvZ2luV2F5IjoxLCJuYW1lIjoi5byg55WF566h55CG5bGAIiwidGVsZXBob25lIjoiMTM2NDIwNDA2MzEiLCJ0eXBlIjozLCJ1c2VyTmFtZSI6IuW8oOeVheeuoeeQhuWxgCIsInVzZXJJZCI6IjEyMzQ2NDQ2NzA5MDcyODk2MDAiLCJsb2dpblNvdXJjZSI6LTEsImV4cCI6MTYzMDc4MzE5OH0.eycoFYShX4XONFjUplHBUV8MmA8zOV_Lw-b6jbjPmq8
