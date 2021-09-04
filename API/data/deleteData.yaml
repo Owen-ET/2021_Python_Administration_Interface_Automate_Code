@@ -1,0 +1,4 @@
+delete:
+    url: "/deleteBatchByIds"
+    data:
+      recyclerIds: data

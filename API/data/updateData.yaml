@@ -1,0 +1,19 @@
+update:
+  url: "/updateById"
+  data:
+    recyclerId: data
+    recyclerName: 测试名称2
+    address: 测试地址2
+    linkman: 测试人2改
+    telephon: 13600000002
+    status: -1
+    serviceCode: 1176664656245297152,1176664711966625799
+    serviceName: 可回收物,其他垃圾
+    description: 测试说明2修改
+    infoId: 1194203558157881344
+    provinceId: 12
+    provinceName: 天津市
+    cityId: 1201
+    cityName: 天津市
+    areaId: 120116
+    areaName: 滨海新区
